@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1590612219 source:e:\cp2 practicals\playing wheels\main.c
+	<queue>
+	<cmath>
+	<cstring>
+
+1590612255 source:e:\cp2 practicals\playing wheels\main.cpp
+	<cstdio>
+	<queue>
+	<cmath>
+	<cstring>
+

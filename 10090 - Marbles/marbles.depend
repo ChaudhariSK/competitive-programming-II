@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578505352 source:e:\cp2 practicals\marbles\main.cpp
+	<stdio.h>
+	<algorithm>
+
